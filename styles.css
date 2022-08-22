@@ -6,7 +6,6 @@ body, .nav-link, p {
   font-family: 'Montserrat', sans-serif;
 }
 
-
 h2, h3 {
   font-family: 'Quicksand', sans-serif;
 }
@@ -16,7 +15,6 @@ h2, h3 {
 }
 
 /* Sections */
-
 .colored-section {
   background-color: #A66CFF;
   color: white;
@@ -63,7 +61,6 @@ h2, h3 {
 
 .download-button {
   margin: 5% 3% 5% 0;
-
 }
 
 .wine {
@@ -105,12 +102,14 @@ p {
 }
 
 #testimonials h2 {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
-#testimonials h2:hover{
-  color:#8B0000;
+#testimonials h2:hover {
+  color: #8B0000;
 }
+
+.sign {font-size: 1.5rem;}
 
 .woman {
   width: 30%;
@@ -118,8 +117,8 @@ p {
 }
 
 .woman:hover {
-  width: 35%;}
-
+  width: 35%;
+}
 
 .logo {
   width: 10%;
@@ -127,7 +126,8 @@ p {
 }
 
 .logo:hover {
-  width: 13%;}
+  width: 13%;
+}
 
 .carousel-item {
   padding: 7% 15%;
@@ -136,7 +136,7 @@ p {
 /* Pricing */
 #pricing {
   padding-top: 5%;
-  padding-right:10%;
+  padding-right: 10%;
   padding-left: 10%;
   padding-bottom: 5%;
 }
@@ -203,11 +203,11 @@ p {
   }
 
   .motto {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
-  h2 {
-    font-size: 1.5rem;
+  #testimonials h2 {
+    font-size: 1rem;
   }
 
   #title {
@@ -219,5 +219,9 @@ p {
   }
 
   .logo {
-    width: 15%;
-}
+    width: 18%;}
+
+  .sign {
+      font-size: 0.5rem;
+    }
+  }
