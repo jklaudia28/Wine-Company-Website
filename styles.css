@@ -105,7 +105,7 @@ p {
 }
 
 #testimonials h2 {
-    font-size: 150%;
+  font-size: 1rem;
 }
 
 #testimonials h2:hover{
@@ -135,7 +135,10 @@ p {
 
 /* Pricing */
 #pricing {
-  padding: 100px;
+  padding-top: 5%;
+  padding-right:10%;
+  padding-left: 10%;
+  padding-bottom: 5%;
 }
 
 .title {
@@ -214,4 +217,7 @@ p {
   .navbar-brand {
     font-size: 1rem !important;
   }
+
+  .logo {
+    width: 15%;
 }
