@@ -221,6 +221,12 @@ p {
   .logo {
     width: 18%;}
 
+  .woman {
+  display: none;
+}
+
+.woman2 {display:none;}
+  
   .sign {
       font-size: 0.5rem;
     }
